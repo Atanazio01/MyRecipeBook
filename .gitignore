@@ -16,6 +16,7 @@
 .idea/
 *.swp
 *~
+package.json
 
 ## NuGet
 *.nupkg
