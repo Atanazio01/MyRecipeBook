@@ -12,6 +12,7 @@
 *.sln.docstates
 
 ## Rider / VS Code (optional local settings)
+.vscode/
 .idea/
 *.swp
 *~
